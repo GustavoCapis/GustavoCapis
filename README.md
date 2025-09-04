@@ -16,14 +16,14 @@
       align="left" 
       alt="GitHub Stats" 
       width="25%" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCapis&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCapis&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" 
   />
 </div>
 
 ## 🗨️ Socials
 
 <div> 
+  <a href="https://www.linkedin.com/in/gustavo-capistrano-249013335" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/gustavo_capistrano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gustavo.capy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-capistrano-249013335" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href = "mailto:gustavo.capy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
