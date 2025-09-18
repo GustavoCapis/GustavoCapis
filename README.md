@@ -16,8 +16,8 @@
     <img 
       align="left" 
       alt="GitHub Stats" 
-      width="50%" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCapis&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" 
+      width="25%" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCapi&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" 
   >
 </div>
 
