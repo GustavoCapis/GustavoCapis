@@ -1,5 +1,5 @@
 ## Howdy! 🤠 I'm Gustavo Capistrano 👋
-- 🌱 I'm currently learning JavaScript!
+- 🌱 I'm currently learning React!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoCapis&show_icons=true&theme=synthwave)
 
