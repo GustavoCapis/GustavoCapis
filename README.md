@@ -1,5 +1,16 @@
-## Howdy! 🤠 I'm Gustavo Capistrano 👋
-- 🌱 I'm currently learning React!
+## About Me
+
+Front-End Developer passionate about creating clean, responsive, and intuitive user interfaces.
+
+Main technologies:
+
+- JavaScript
+- React
+- HTML
+- CSS
+- Vite
+
+Focused on continuous learning and real-world projects.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoCapis&show_icons=true&theme=synthwave)
 
