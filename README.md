@@ -2,7 +2,7 @@
 
 Front-End Developer passionate about creating clean, responsive, and intuitive user interfaces.
 
-Currently learning TypeScript 🤓
+Currently learning Java! 🤓
 
 Main technologies:
 
